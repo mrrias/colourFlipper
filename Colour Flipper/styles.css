@@ -1,0 +1,38 @@
+body {
+  padding: 15px;
+  padding-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  margin: 10px;
+  padding: 30px;
+  width: 200px;
+  border: 2px solid #636363;
+  border-radius: 10px;
+  font-weight: 700;
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: -2px 2px 10px #63636343;
+  transform: scale(1.01);
+}
+
+#green {
+  background-color: green;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#random {
+  color: black;
+  background-color: whitesmoke;
+}
