@@ -5,5 +5,5 @@ All code is **my code** it is only ideas I have taken from people.
 
 ### Colour Flipper
 This idea is simple but cool project that helps you learn JavaScript. 
-I found this idea from Tech With Tim and really liked it's simplicity and wanted to try and make it.\n
+I found this idea from Tech With Tim and really liked it's simplicity and wanted to try and make it. \n
 *project one* : https://github.com/techwithtim/5-Mini-JS-Projects-for-Beginners
